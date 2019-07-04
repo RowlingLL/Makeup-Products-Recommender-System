@@ -8,7 +8,7 @@ To build several recommender systems for current users and potential users with 
 
 > __Content based filtering:__ based on product features and user features
 
-> __Hybrid model:__ based on user feature, item feature, and interaction, potentially recommending products to new users according to user input -- __hybrid model updated, user input in progress__
+> __Hybrid model:__ based on user feature, item feature, and interaction, potentially recommending products to new users according to user input 
 
 
 ### Dataset overview
