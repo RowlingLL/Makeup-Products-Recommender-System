@@ -8,7 +8,8 @@ To build several recommender systems for current users and potential users with 
 
 > __Content based filtering:__ based on product features and user features
 
-> __Hybrid model:__ based on user feature, item feature, and interaction, potentially recommending products to new users according to user input -- __hybrid model updated, user input in progress
+> __Hybrid model:__ based on user feature, item feature, and interaction, potentially recommending products to new users according to user input -- __hybrid model updated, user input in progress__
+
 
 ### Dataset overview
 This system used a private dataset scrapped from https://www.sephora.com containing product details and user reviews history, including 13K products, 210K users, 325K reviews. I've put them into 2 csv files:
